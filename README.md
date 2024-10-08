@@ -1,6 +1,4 @@
 
-# **Dyano Academy Website**
-## **Logo**
 
 
 ![image](https://github.com/TechCharlie0/dynoAcademy/assets/166296560/d8e79122-90c6-4765-aeb9-3bfa7a3c56e6)
